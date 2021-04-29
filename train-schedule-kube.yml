@@ -1,4 +1,4 @@
-apiVersion: apps/v1
+apiVersion: V1Deployment
 kind: Deployment
 metadata:
   name: train-schedule-deployment
